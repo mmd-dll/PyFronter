@@ -21,7 +21,7 @@ pip install pyfronter
 Start building your frontend by pyfronter:
 
 ```python
-from pyfronter import Html,run
+from pyfront import Html,run
 
 html = Html()
 
