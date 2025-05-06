@@ -1,4 +1,4 @@
-from pyfronter import Html, render, run
+from pyfront import Html, render, run
 
 html = Html()
 
